@@ -1,4 +1,4 @@
-import { getSavedJobs } from "@/api/apiJobs";
+import { getSavedJobs } from "@/api/apijobs";
 import JobCard from "@/components/job-card";
 import useFetch from "@/hooks/use-fetch";
 import { useUser } from "@clerk/clerk-react";
